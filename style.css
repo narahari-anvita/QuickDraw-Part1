@@ -1,0 +1,19 @@
+body{
+    background-color: lemonchiffon;
+}
+
+#score{
+    font-size: 30px;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin: 10%;
+}
+
+#show_sketch{
+    color: navy;
+    background-color: lemonchiffon;
+    float: right;
+}
